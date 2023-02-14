@@ -34,7 +34,7 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                android:src="@drawable/drop_down_img"
+                android:background="@drawable/ic_baseline_arrow_drop_down_24"
                 />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
